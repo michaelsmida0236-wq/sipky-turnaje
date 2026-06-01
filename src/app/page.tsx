@@ -33,7 +33,7 @@ export default async function HomePage() {
           Šípkové turnaje
         </h1>
         <p className="text-green-300 text-lg max-w-xl mx-auto">
-          Prehľad všetkých nadchádzajúcich turnajov a podujatí šípkových klubov na Slovensku.
+          Prehľad všetkých nadchádzajúcich turnajov a podujatí šípkových klubov na Slovensku a v Českej republike.
         </p>
       </div>
 
