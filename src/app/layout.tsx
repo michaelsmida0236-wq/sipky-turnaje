@@ -22,7 +22,7 @@ export default function RootLayout({
             {children}
           </main>
           <footer className="border-t border-green-900 mt-16 py-8 text-center text-gray-500 text-sm">
-            <p>© 2024 Šípkové turnaje · Portál pre šípkové kluby</p>
+            <p>© {new Date().getFullYear()} Šípkové turnaje · Portál pre šípkové kluby</p>
           </footer>
         </Providers>
       </body>

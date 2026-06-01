@@ -84,7 +84,7 @@ export function EventForm({ mode, eventId, defaultValues }: EventFormProps) {
             type="text"
             required
             defaultValue={defaultValues?.title}
-            placeholder="napr. Jesenný šípkový turnaj 2024"
+            placeholder="napr. Jesenný šípkový turnaj 2026"
             className="w-full bg-green-900/30 border border-green-700 rounded-lg px-4 py-2.5 text-gray-100 placeholder-gray-600 focus:outline-none focus:border-yellow-500 focus:ring-1 focus:ring-yellow-500 transition-colors"
           />
         </div>
